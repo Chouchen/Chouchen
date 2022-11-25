@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chouchen&rank=SECRET,AAA,AA,A" alt="chouchen" /></a> </p>
 
+![GitHub Sponsors](https://img.shields.io/github/sponsors/Chouchen?label=%E2%99%A5%EF%B8%8F%20Sponsor%20me&style=for-the-badge)
+
 <p align="left"> <a href="https://twitter.com/shikiryu" target="blank"><img src="https://img.shields.io/twitter/follow/shikiryu?logo=twitter&style=for-the-badge" alt="shikiryu" /></a> </p>
 
 - 🔭 I’m currently working on [Lifesheet](https://lifesheet.desmidt.fr)
